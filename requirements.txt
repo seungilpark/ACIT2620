@@ -1,0 +1,30 @@
+A movie database program
+	- it should add movie in JSON file, 
+	- it should remove movie from JSON file, 
+	- it should retrieve movie from JSON file 
+	- it should display all movies stored in JSON file, 
+    - it should operates on user commands (i.e. using yargs).
+	
+Make sure you create an appropriate JSON object with real-life parameters 
+	{
+    "movies": 
+        [
+            {
+                "title": 'Terminator'
+                "director": 'James Cameron',
+                "starring":['arnold','','',],
+                "rating":,
+                "budget":23012030,
+                "year":1988,
+            }, 
+            {
+            
+            },
+        ]
+    }
+
+
+Output files
+    App.js
+    movies.Json
+    Package.json 

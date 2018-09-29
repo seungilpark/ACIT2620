@@ -1,0 +1,17 @@
+{
+    "movies": [{
+        "title": "The Shawshank Remdemption",
+        "director": "Spilberg",
+        "starring": "Tom Hanks",
+        "rating": 10,
+        "budget": 129838791827398,
+        "year": 2000
+    }, {
+        "title": "The Shawshank Remdemption",
+        "director": "Spilberg",
+        "starring": "Tom Hanks",
+        "rating": 10,
+        "budget": 129838791827398,
+        "year": 2000
+    }]
+}
